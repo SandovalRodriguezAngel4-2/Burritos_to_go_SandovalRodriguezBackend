@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-zcoh_97+h&2)#vv&^&4$dqnbs5#a#!7mgxo5ccw3dph7xm6ew%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://backendsandovalrodriguez.pythonanywhere.com']
 
 
 # Application definition
@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'burritos_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-    'NAME': 'burritos_db',
-    'USER': 'root',
-    'PASSWORD': '',
-    'HOST': 'localhost',
+    'NAME': 'backendsandovalr$burritos_db',
+    'USER': 'backendsandovalr',
+    'PASSWORD': '12345678',
+    'HOST': 'backendsandovalrodriguez.mysql.pythonanywhere-services.com',
     'PORT': '3307',
     }
 }
