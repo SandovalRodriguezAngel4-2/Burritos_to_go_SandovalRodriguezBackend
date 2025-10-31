@@ -82,7 +82,7 @@ DATABASES = {
     'USER': 'backendsandovalr',
     'PASSWORD': '12345678',
     'HOST': 'backendsandovalr.mysql.pythonanywhere-services.com',
-    'PORT': '3307',
+    'PORT': '3306',
     }
 }
 
