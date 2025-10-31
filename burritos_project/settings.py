@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'backendsandovalr$burritos_db',
         'USER': 'backendsandovalr',
-        'PASSWORD': '12345678',
+        'PASSWORD': 'Angel210306',
         'HOST': 'backendsandovalrodriguez.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
