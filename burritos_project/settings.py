@@ -81,7 +81,7 @@ DATABASES = {
     'NAME': 'backendsandovalr$burritos_db',
     'USER': 'backendsandovalr',
     'PASSWORD': '12345678',
-    'HOST': 'backendsandovalrodriguez.mysql.pythonanywhere-services.com',
+    'HOST': 'https://backendsandovalrodriguez.pythonanywhere.com',
     'PORT': '3307',
     }
 }
